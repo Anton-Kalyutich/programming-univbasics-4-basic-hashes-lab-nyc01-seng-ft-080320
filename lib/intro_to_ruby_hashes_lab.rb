@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  years_of_birth = {"Anton" => 1988, "Anabella" => 1994}
+  {"Anton" => 1988, "Anabella" => 1994}
 end
 
 def pioneer
